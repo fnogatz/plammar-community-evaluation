@@ -260,37 +260,37 @@
 
 Imported from https://github.com/SWI-Prolog/swipl-devel/tree/9afb9384bb/packages, April 25, 2019.
 
-- [archive](https://github.com/SWI-Prolog/packages-archive) @ `608cb4f`
-- [bdb](https://github.com/SWI-Prolog/packages-bdb) @ `607680d`
-- [chr](https://github.com/SWI-Prolog/packages-chr) @ `e9ac3e4`
-- [clib](https://github.com/SWI-Prolog/packages-clib) @ `fddc2ef`
-- [clpqr](https://github.com/SWI-Prolog/packages-clpqr) @ `f8532ab`
-- [cpp](https://github.com/SWI-Prolog/packages-cpp) @ `15610b8`
-- [cppproxy](https://github.com/SWI-Prolog/packages-cppproxy) @ `dd94f07`
-- [cql](https://github.com/SWI-Prolog/packages-cql) @ `dc28c62`
-- [http](https://github.com/SWI-Prolog/packages-http) @ `b4d5518`
-- [inclpr](https://github.com/SWI-Prolog/packages-inclpr) @ `6dfe938`
-- [jpl](https://github.com/SWI-Prolog/packages-jpl) @ `ebd62d3`
-- [libedit](https://github.com/SWI-Prolog/packages-libedit) @ `fd00fb5`
-- [ltx2htm](https://github.com/SWI-Prolog/packages-ltx2htm) @ `c0a43d7`
-- [nlp](https://github.com/SWI-Prolog/packages-nlp) @ `719cc0e`
-- [odbc](https://github.com/SWI-Prolog/packages-odbc) @ `24172c4`
-- [paxos](https://github.com/SWI-Prolog/packages-paxos) @ `f9669ff`
-- [pcre](https://github.com/SWI-Prolog/packages-pcre) @ `27f0cea`
-- [PDT](https://github.com/SWI-Prolog/packages-PDT) @ `5166a11`
-- [pengines](https://github.com/SWI-Prolog/packages-pengines) @ `d704640`
-- [pldoc](https://github.com/SWI-Prolog/packages-pldoc) @ `99ab929`
-- [plunit](https://github.com/SWI-Prolog/packages-plunit) @ `0e53db4`
-- [protobufs](https://github.com/SWI-Prolog/packages-protobufs) @ `7145b63`
-- [RDF](https://github.com/SWI-Prolog/packages-RDF) @ `58da708`
-- [readline](https://github.com/SWI-Prolog/packages-readline) @ `1309a5a`
-- [semweb](https://github.com/SWI-Prolog/packages-semweb) @ `83b3474`
-- [sgml](https://github.com/SWI-Prolog/packages-sgml) @ `f7eb558`
-- [ssl](https://github.com/SWI-Prolog/packages-ssl) @ `e9d0a9e`
-- [table](https://github.com/SWI-Prolog/packages-table) @ `4a223fc`
-- [tipc](https://github.com/SWI-Prolog/packages-tipc) @ `6a36107`
-- [utf8proc](https://github.com/SWI-Prolog/packages-utf8proc) @ `2175907`
-- [windows](https://github.com/SWI-Prolog/packages-windows) @ `fd3c5c2`
-- [xpce](https://github.com/SWI-Prolog/packages-xpce) @ `27eb56e`
-- [yaml](https://github.com/SWI-Prolog/packages-yaml) @ `c514ee4`
-- [zlib](https://github.com/SWI-Prolog/packages-zlib) @ `a5d4ffa`
+- [archive](https://github.com/SWI-Prolog/packages-archive) `608cb4f`
+- [bdb](https://github.com/SWI-Prolog/packages-bdb) `607680d`
+- [chr](https://github.com/SWI-Prolog/packages-chr) `e9ac3e4`
+- [clib](https://github.com/SWI-Prolog/packages-clib) `fddc2ef`
+- [clpqr](https://github.com/SWI-Prolog/packages-clpqr) `f8532ab`
+- [cpp](https://github.com/SWI-Prolog/packages-cpp) `15610b8`
+- [cppproxy](https://github.com/SWI-Prolog/packages-cppproxy) `dd94f07`
+- [cql](https://github.com/SWI-Prolog/packages-cql) `dc28c62`
+- [http](https://github.com/SWI-Prolog/packages-http) `b4d5518`
+- [inclpr](https://github.com/SWI-Prolog/packages-inclpr) `6dfe938`
+- [jpl](https://github.com/SWI-Prolog/packages-jpl) `ebd62d3`
+- [libedit](https://github.com/SWI-Prolog/packages-libedit) `fd00fb5`
+- [ltx2htm](https://github.com/SWI-Prolog/packages-ltx2htm) `c0a43d7`
+- [nlp](https://github.com/SWI-Prolog/packages-nlp) `719cc0e`
+- [odbc](https://github.com/SWI-Prolog/packages-odbc) `24172c4`
+- [paxos](https://github.com/SWI-Prolog/packages-paxos) `f9669ff`
+- [pcre](https://github.com/SWI-Prolog/packages-pcre) `27f0cea`
+- [PDT](https://github.com/SWI-Prolog/packages-PDT) `5166a11`
+- [pengines](https://github.com/SWI-Prolog/packages-pengines) `d704640`
+- [pldoc](https://github.com/SWI-Prolog/packages-pldoc) `99ab929`
+- [plunit](https://github.com/SWI-Prolog/packages-plunit) `0e53db4`
+- [protobufs](https://github.com/SWI-Prolog/packages-protobufs) `7145b63`
+- [RDF](https://github.com/SWI-Prolog/packages-RDF) `58da708`
+- [readline](https://github.com/SWI-Prolog/packages-readline) `1309a5a`
+- [semweb](https://github.com/SWI-Prolog/packages-semweb) `83b3474`
+- [sgml](https://github.com/SWI-Prolog/packages-sgml) `f7eb558`
+- [ssl](https://github.com/SWI-Prolog/packages-ssl) `e9d0a9e`
+- [table](https://github.com/SWI-Prolog/packages-table) `4a223fc`
+- [tipc](https://github.com/SWI-Prolog/packages-tipc) `6a36107`
+- [utf8proc](https://github.com/SWI-Prolog/packages-utf8proc) `2175907`
+- [windows](https://github.com/SWI-Prolog/packages-windows) `fd3c5c2`
+- [xpce](https://github.com/SWI-Prolog/packages-xpce) `27eb56e`
+- [yaml](https://github.com/SWI-Prolog/packages-yaml) `c514ee4`
+- [zlib](https://github.com/SWI-Prolog/packages-zlib) `a5d4ffa`
