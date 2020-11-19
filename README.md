@@ -260,7 +260,7 @@
 
 ### SWI *batteries included* Packages
 
-Imported from [`/packages` in SWI-Prolog/swipl-devel](https://github.com/SWI-Prolog/swipl-devel/tree/9afb9384bb/packages, April 25, 2019.
+Imported from [`/packages` in SWI-Prolog/swipl-devel](https://github.com/SWI-Prolog/swipl-devel/tree/9afb9384bb/packages), April 25, 2019.
 
 - [archive](https://github.com/SWI-Prolog/packages-archive) `608cb4f`
 - [bdb](https://github.com/SWI-Prolog/packages-bdb) `607680d`
